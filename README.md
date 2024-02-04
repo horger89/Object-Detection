@@ -11,7 +11,7 @@ This model is unsuitable for standalone use in mission-critical applications suc
 
 To try out the model:
 
-1. Open the notebook in Colab: Click the "Open in Colab" button located at the top of this file. This will launch the notebook in Google Colab's interactive environment.
+1. Open the notebook in Colab: Click the "Open in Colab" button located at the top of ObjectDetection file. This will launch the notebook in Google Colab's interactive environment.
 
 2. Run the code cells: Navigate through the notebook and execute each code cell sequentially. You can do this by clicking the play button (▶️) or pressing Shift + Enter on each cell.
 
